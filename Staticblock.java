@@ -1,4 +1,4 @@
-class main
+class Staticblock
 {
     //static block
     static {
